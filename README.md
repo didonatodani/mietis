@@ -1,7 +1,7 @@
 # MIETIS - Mini Project UX/UI & Web Dev students from IRONHACK
 
 ## Overview
-MIETIS is a collaborative project delivered as part of a sprint between UX/UI and Web Development teams. In less than 9 hours, the teams worked together to develop and deploy a Minimum Viable Product (MVP), focusing on adding a key feature to the Mietis website.
+MIETIS is a collaborative project delivered as part of a sprint between UX/UI and Web Development teams. In less than 9 hours, the teams worked together to develop and deploy a Minimum Viable Product (MVP), focusing on adding a key feature to the Mietis website, only #MOBILEVERSION
 
 ## Objectives
 
@@ -9,7 +9,7 @@ MIETIS is a collaborative project delivered as part of a sprint between UX/UI an
 - Proposed a new feature for the Mietis website: a bag customization tool.
 - Provided detailed designs in Figma, including the layout and interaction flow.
 - Collaborated with developers to define the project scope and ensure design integrity.
-- 
+ 
 ### Web Development Team (Our Role):
 - Implemented the bag customization feature, allowing users to:
   - Choose the shape of the bag.
